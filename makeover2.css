@@ -1,0 +1,129 @@
+h1{color:red;
+background: aqua;
+font-family:fantasy;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: orange;
+    background: black;
+    font-family: cursive;
+}
+p5{
+    color:blue ;
+    background:yellow;
+    font-family:cursive;
+}
+p6{
+    color:orangered;
+    background-color: deepskyblue;
+    cursor: pointer;   
+}
+header>ul>li{
+    color:red;
+    background-color:aquamarine;
+    width:55px;}
+article p7{
+    text-align: left;
+    background: red;
+}
+article p8{
+    text-align: center;
+    background: aqua;
+}
+article p9{text-align: right;
+           background: yellow;}
+#section1{
+    color:red;
+}
+#section3
+{
+    color:blue;
+}
+#section2{
+    color:green;
+}
+u{
+    color:red;
+}
+strong{
+    color:red;
+}
+hr{
+    color:royalblue;
+}
+p{
+    color:crimson;
+}
+p1{
+    background: aqua;
+}
+article1>ul{background:deeppink;
+    
+}
+article2>ol{
+    background: fuchsia;
+}
+article3>ul{
+    background:cornflowerblue;
+}
+article4>ol{
+    background:darkviolet;
+}
+p3{
+    color:deeppink;
+    background: black;
+}
+article5 a:link,a:visited{text-decoration: none;
+    background-color: green;
+    border: 1px solid blue;
+    color:black;
+    width:200px;
+    margin-bottom: :1px;
+    
+    
+    
+}html{
+    background:grey;
+    background-repeat: no-repeat;
+    border-color: green;
+   
+}
+img {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+article9 a:link,a:visited{text-decoration: none;
+    background-color: green;
+    border: 1px solid blue;
+    color:black;
+    width:200px;
+    margin-bottom: :1px;
+    position: 45px;
+    
+}
+footer{
+    background-color: cadetbluecadet;}
+video{
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+audio{
+     animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
